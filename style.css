@@ -1,0 +1,11 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#container {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.susu {
+  width: 800px;
+}
